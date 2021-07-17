@@ -1,0 +1,1 @@
+export type Placeholders = 'article_code' | 'container_code' | 'search'
